@@ -1,0 +1,9 @@
+User = Max
+Password = Maximum
+
+
+User = Manual
+Password = Manually
+
+User = Extra
+Password = Extraordinary
